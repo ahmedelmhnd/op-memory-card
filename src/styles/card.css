@@ -1,0 +1,11 @@
+.card{
+    background-color: rgb(96, 96, 96);
+    padding: 0;
+    width: 200px;
+}
+
+.card-image{
+    width: 200px;
+    height: 200px;
+}
+
